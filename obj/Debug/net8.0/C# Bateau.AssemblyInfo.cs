@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C# Bateau")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a63073530263cae86429668d4d868f2d7974ad0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("C# Bateau")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C# Bateau")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
