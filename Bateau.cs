@@ -18,7 +18,7 @@ public abstract class Bateau
 
     public static Bateau ChoisirBateau()
     {
-        Console.WriteLine("Choisissez un type de bateau (1: Voile, 2: Moteur):");
+        Console.WriteLine("Choisissez un type de bateau \n1: Voile \n2: Moteur");
         string choix = Console.ReadLine();
         switch (choix)
         {
